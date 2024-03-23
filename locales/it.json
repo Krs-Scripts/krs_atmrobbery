@@ -1,0 +1,12 @@
+
+
+{
+    "title_notify": "Errore nella Rapina all'atm di Krs",
+    "description_not_authorize_police": "la polizia non è autorizzata",
+    "description_not_have_item": "Non possiedi il %s richiesto per procedere con la rapina.",
+    "description_not_have_weapon": "Devi essere armato per procedere con la rapina.",
+    "description_minigame_failed": "Errore nel minigioco. Riprova più tardi.",
+    "description_insufficient_police": "Attualmente non ci sono abbastanza agenti di polizia online per procedere con la rapina. è necessario un minimo di %s agenti di polizia.",
+    "description_notify_police": "Rapina in corso.",
+    "description_atm_robbery_receive": "Hai ricevuto $%s dalla rapina."
+}

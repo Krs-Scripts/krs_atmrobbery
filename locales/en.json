@@ -1,0 +1,12 @@
+
+
+{
+    "title_notify": "Krs Atm Robbery Error",
+    "description_not_authorize_police": "the police are not authorized",
+    "description_not_have_item": "You do not possess the required %s to proceed with the robbery.",
+    "description_not_have_weapon": "You must be armed to proceed with the robbery.",
+    "description_minigame_failed": "Error in the minigame. Try later.",
+    "description_insufficient_police": "There are currently not enough police officers online to proceed with the robbery. a minimum of %s police officers is required.",
+    "description_notify_police": "Robbery in progress",
+    "description_atm_robbery_receive": "You received $%s from the robbery."
+}
