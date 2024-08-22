@@ -7,13 +7,13 @@
   - pure-minigames
 
 
-  * [**MiniGame**](https://github.com/purescripts-fivem/pure-minigames)
+[**MiniGame**](https://github.com/purescripts-fivem/pure-minigames)
 
-  * [**ox_target**](https://github.com/overextended/ox_target/releases/tag/v1.17.0)
+[**ox_target**](https://github.com/overextended/ox_target/releases/tag/v1.17.0)
 
-  * [**ox_lib**](https://github.com/overextended/ox_lib/releases/tag/v3.25.0)
+[**ox_lib**](https://github.com/overextended/ox_lib/releases/tag/v3.25.0)
 
-  * [**ox_inventory**](https://github.com/overextended/ox_inventory/releases/tag/v2.42.0)
+[**ox_inventory**](https://github.com/overextended/ox_inventory/releases/tag/v2.42.0)
 
 
   
